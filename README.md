@@ -4,7 +4,7 @@ Azure Open AI Simple TK App with Streaming
 ## Overview
 This application is an interactive chat application that utilizes an Azure Open Ai deployment. Just The app provides a user interface with TK for sending queries and receiving responses from the model. 
 
-<img src="media/chat.PNG" alt="Chat preview" width="512">
+<img src="media/chat.png" alt="Chat preview" width="512">
 
 ## Files
 - `main.py`: The entry point for the application. It initializes and runs the chat application.
